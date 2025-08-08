@@ -1,4 +1,3 @@
-// app/admin/products/page.tsx
 'use client';
 
 import { useAuthStore } from '@/store/auth-store';
